@@ -3,6 +3,9 @@
     "description": "The web root directory for Drupal.",
     "type": "drupal-webroot",
     "license": "MIT",
+    "require": {
+        "composer/installers": "~1.0"
+    },
     "extra": {
         "installer-name": "web"
     }
