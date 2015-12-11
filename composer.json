@@ -1,0 +1,6 @@
+{
+    "name": "robloach/drupal-webroot",
+    "description": "The web root directory for Drupal.",
+    "type": "drupal-webroot",
+    "license": "MIT"
+}

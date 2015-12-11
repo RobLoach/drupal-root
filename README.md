@@ -1,2 +1,7 @@
 # drupal-root
-The root folder of a Drupal install.
+
+The web root folder of the a [Drupal](http://drupal.org) install.
+
+## Installation
+
+This needs some documentation!
