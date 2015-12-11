@@ -2,5 +2,8 @@
     "name": "robloach/drupal-webroot",
     "description": "The web root directory for Drupal.",
     "type": "drupal-webroot",
-    "license": "MIT"
+    "license": "MIT",
+    "extra": {
+        "installer-name": "web"
+    }
 }
