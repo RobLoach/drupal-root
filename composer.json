@@ -1,12 +1,10 @@
 {
-    "name": "robloach/drupal-webroot",
+    "name": "drupal/root",
     "description": "The web root directory for Drupal.",
-    "type": "drupal-webroot",
-    "license": "MIT",
+    "type": "drupal-root",
+    "license": "GPL-2.0",
     "require": {
         "composer/installers": "~1.0"
-    },
-    "extra": {
-        "installer-name": "web"
     }
 }
+
